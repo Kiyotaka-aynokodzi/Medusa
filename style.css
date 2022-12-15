@@ -707,5 +707,62 @@ footer a:hover {
 }
 
 @media screen and (max-width: 320px) {
+    .wrapper {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
 
+    .header-links li {
+        margin-right: 5px;
+        margin-left: 5px;
+        font-size: 7px;
+    }    
+
+    .main-news h1 {
+        font-size: 10px;
+    }
+
+    .main-news p {
+        font-size: 4px;
+    }
+
+    .news-1 ul .vh_1 h1 {
+        font-size: 10px;
+    }
+
+    .news .news-2 ul .vh_5 h1 {
+        font-size: 10px;
+    }
+
+    .news .news-1 ul .vh_2 .news_1 {
+        font-size: 10px;
+    }
+
+    .news .news-1 ul .vh_2 .news_2 {
+        font-size: 10px;
+    }
+
+    .news .news-1 ul .vh_3 .news_3 {
+        font-size: 10px;
+    }
+
+    .news .news-1 ul .vh_3 .news_4 {
+        font-size: 10px;
+    }
+
+    .news .news-2 ul .vh_6 .news_5 {
+        font-size: 10px;
+    }
+
+    .news .news-2 ul .vh_6 .news_6 {
+        font-size: 10px;
+    }
+
+    .news .news-2 ul .vh_7 .news_7 {
+        font-size: 10px;
+    }
+
+    .news .news-2 ul .vh_7 .news_8 {
+        font-size: 10px;
+    }
 }
